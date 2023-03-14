@@ -1,0 +1,73 @@
+body {
+    background-color: #fff;
+    /*overflow: hidden;*/
+    position: relative;
+    width: 1440px;
+    height: 1080px;
+    display: inline-block;
+  }
+  #heading {
+    font-family: "Inconsolata";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-align: left;
+    padding-left: 77px;
+    padding-top: 40px;
+  }
+  #main {
+    font-family: "Space Mono";
+    font-size: 64px;
+    font-weight: 700;
+    letter-spacing: -0.035em;
+    text-align: left;
+    padding-top: 265px;
+    padding-left: 735px;
+    padding-bottom: 625px;
+    padding-right: 119px;
+  }
+  #text {
+    font-family: "Space Mono";
+    font-size: 24px;
+    letter-spacing: -0.035em;
+    text-align: left;
+    padding-left: 736px;
+    padding-top: 491px;
+    padding-bottom: 481px;
+    padding-right: 323px;
+  }
+  #rectangle {
+    position: absolute;
+    bottom: 349px;
+    right: 484px;
+    left: 740px;
+    top: 663px;
+    color: #fff;
+    font-family: "Space Mono";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    text-align: center;
+    background: #333333;
+  }
+  #image {
+    height: 447.4263916015625px;
+    width: 539.2236938476562px;
+    left: 77px;
+    top: 265px;
+    border-radius: 0px;
+  }
+  #name {
+    padding-bottom: 24px;
+    padding-right: 576px;
+    padding-left: 577px;
+    padding-top: 1039px;
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #bdbdbd;
+  }
